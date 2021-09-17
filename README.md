@@ -1,18 +1,16 @@
-<p align="center">
- <img height="170em" align="center" alt="Emy-Saturn" src="https://cdn.discordapp.com/attachments/422583220790493185/888522458913701918/MeuGif.gif">
- <h2 align="center">Olá, seja bem vindo ao meu perfil!</h2>
-</p>
+<h2 align="center">Olá, seja bem vindo ao meu perfil!</h2>
 
 <div>
   <a href="https://github.com/emillyrosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emillyrosa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <!– <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyrosa&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyrosa&layout=compact&langs_count=7&theme=github_dark"/>
 </div>  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Emy-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Emy-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emy-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="170em" align="right" alt="Emy-Saturn" src="https://cdn.discordapp.com/attachments/422583220790493185/888522458913701918/MeuGif.gif">
 </div>
   
 ##  
