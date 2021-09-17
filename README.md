@@ -10,7 +10,7 @@
   <img align="center" alt="Emy-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Emy-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emy-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="170em" align="right" alt="Emy-Saturn" src="https://cdn.discordapp.com/attachments/422583220790493185/888522458913701918/MeuGif.gif">
+  <img height="140em" align="right" alt="Emy-Saturn" src="https://cdn.discordapp.com/attachments/422583220790493185/888522458913701918/MeuGif.gif">
 </div>
   
 ##  
