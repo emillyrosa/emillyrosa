@@ -1,4 +1,6 @@
-<h2 align="center">Olá, seja bem vindo ao meu perfil!</h2>
+<p align="center">
+  <img height="300em" src="https://cdn.discordapp.com/attachments/889360030716026942/889360165135089714/20210920_005707_0000.png" />
+</p align="center">
 
 <div>
   <a href="https://github.com/emillyrosa">
