@@ -1,6 +1,10 @@
 <p align="center">
-  <img height="300em" src="https://cdn.discordapp.com/attachments/889360030716026942/889360165135089714/20210920_005707_0000.png" />
+  <img height="200em" src="https://cdn.discordapp.com/attachments/889360030716026942/889368737348743168/penup_20210516_214516.jpg" />
 </p align="center">
+
+<p align="center">
+  Olá, seja bem vindo ao meu perfil!
+</p>
 
 <div>
   <a href="https://github.com/emillyrosa">
