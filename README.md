@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300em" src="https://cdn.discordapp.com/attachments/889360030716026942/889656568168202240/hi.png" />
+  <img height="250em" src="https://cdn.discordapp.com/attachments/889360030716026942/889681029273624576/Certa.png" />
 </p align="center">
 
 
@@ -19,8 +19,8 @@
 
 <div>
   <a href="https://github.com/emillyrosa">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=emillyrosa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyrosa&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=emillyrosa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyrosa&layout=compact&langs_count=7&theme=algolia"/>
 </div>  
 
 <div style="display: inline_block"><br>
