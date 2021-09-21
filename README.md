@@ -28,7 +28,6 @@
   <img height="140em" align="right" alt="Emy-Saturn" src="https://cdn.discordapp.com/attachments/422583220790493185/888522458913701918/MeuGif.gif">
 </div>
   
-##  
-
+![Snake animation](https://github.com/emillyrosa/emillyrosa/blob/output/github-contribution-grid-snake.svg)
 
  
