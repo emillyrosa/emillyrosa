@@ -26,8 +26,10 @@
   <img align="center" alt="Emy-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emy-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="140em" align="right" alt="Emy-Saturn" src="https://cdn.discordapp.com/attachments/422583220790493185/888522458913701918/MeuGif.gif">
+  
+  
+  ![Snake animation](https://github.com/emillyrosa/emillyrosa/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-![Snake animation](https://github.com/emillyrosa/emillyrosa/blob/output/github-contribution-grid-snake.svg)
 
  
