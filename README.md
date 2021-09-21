@@ -12,15 +12,15 @@
   <a href="https://www.youtube.com/channel/UCrIjDy8isIAjXTGHTpFg0hA" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="emilly.rosa.429@ufrn.edu.br" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
-  <img height="140em" align="right" alt="Emy-Saturn" src="https://cdn.discordapp.com/attachments/422583220790493185/888522458913701918/MeuGif.gif">
+  <img height="170em" align="right" alt="Emy-Saturn" src="https://cdn.discordapp.com/attachments/422583220790493185/888522458913701918/MeuGif.gif">
 </div align="center">
  
 #
 
 <div>
   <a href="https://github.com/emillyrosa">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=emillyrosa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyrosa&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=emillyrosa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyrosa&layout=compact&langs_count=7&theme=algolia"/>
 </div>  
 
 <div style="display: inline_block"><br>
