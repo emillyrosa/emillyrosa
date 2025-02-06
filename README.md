@@ -1,6 +1,3 @@
-<p align="center">
-  <img height="250em" src="https://cdn.discordapp.com/attachments/889360030716026942/889681029273624576/Certa.png" />
-</p align="center">
 
 ##
 
